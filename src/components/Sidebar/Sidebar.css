@@ -2,7 +2,7 @@
     flex: 1;
     border-right: solid 0.5px rgb(211, 211, 211);
     min-height: 100vh;
-    background-color: white;
+    background-color: #f6f3ff;
 }
 
 .top {
@@ -10,7 +10,8 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    border-bottom: solid 0.5px rgb(211, 211, 211);;
+    border-bottom: solid 0.5px rgb(211, 211, 211);
+    background-color: white;
 }
 
 .logo {
@@ -40,7 +41,7 @@ li {
     cursor: pointer;
 }
 li:hover {
-    background-color: #ece8ff;
+    background-color: #e3dff0;
 }
 
 .icon {
