@@ -13,6 +13,7 @@ import SettingsApplicationsIcon from '@mui/icons-material/SettingsApplications';
 import AccountBoxIcon from '@mui/icons-material/AccountBox';
 import MeetingRoomIcon from '@mui/icons-material/MeetingRoom';
 import Logo from '../../assets/logo.jpg'
+import { Link } from "react-router-dom";
 
 function Sidebar() {
     return (
